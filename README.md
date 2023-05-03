@@ -1,2 +1,1 @@
-# php-101
-PHP 101 - Basics
+# PHP 101 🐘 - The Basics
