@@ -33,11 +33,12 @@
      greeting('Hi');
      greeting('Hey');  // the output printed to the browser is 'HiHey' without spaces
      
-     
-     
-     
-     
-     
-  
-
  
+  // the PHP code below shows the concept of function return values
+     
+ <?php
+      function sum ($a, $b) {
+      return $a + $b;
+ }
+     $total = sum(31, 91);
+     echo $total;
