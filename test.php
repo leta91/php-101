@@ -42,3 +42,10 @@
  }
      $total = sum(31, 91);
      echo $total;
+
+// another example 
+
+$shapes = array ("square", "circle", "triangle");
+    foreach ($shapes as $value) {
+        echo "$value<br>";
+    } 
